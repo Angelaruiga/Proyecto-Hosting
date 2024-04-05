@@ -40,3 +40,7 @@ Durante este estudio, se realizó una recopilación de datos de diversas fuentes
 - Datos económicos adicionales como el PIB y la densidad demográfica, y específicos del mercado inmobiliario como gasto de compra y precios por metro cuadrado, recopilados de fuentes como Idealista y Fotocasa.
 
 Estos datos complementan el análisis principal y ayudan a identificar tendencias y patrones relevantes para la toma de decisiones estratégicas de inversión.
+
+Para la realización del análisis y la contestación de las preguntas he usado Python. Te comparto los scripts completos del análisis dentro de Proyecto Hosting.
+
+La visualización final está realizada en Power BI que podrás ver a través de este enlace 👉🏼   https://app.powerbi.com/view?r=eyJrIjoiZTQwNTQ5MWEtMWQwNS00YzY3LTkwNWEtYmIzNzAxNDczMTIzIiwidCI6ImU0ODgzODQwLTA2MTEtNGM2Zi1iYjEwLTVjZTI2NWU3YTE2NiIsImMiOjl9
