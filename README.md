@@ -43,5 +43,5 @@ Estos datos complementan el análisis principal y ayudan a identificar tendencia
 
 Para la realización del análisis y la contestación de las preguntas he usado Python. Te comparto los scripts completos del análisis dentro de Proyecto Hosting.
 
-La visualización final está realizada en Power BI que podrás ver a través de este enlace 👉🏼 https://app.powerbi.com/reportEmbed?reportId=e6972b30-a7ba-4741-a685-b601b4887faa&autoAuth=true&ctid=e4883840-0611-4c6f-bb10-5ce265e7a166
+La visualización final está realizada en Power BI que podrás ver a través de este enlace 👉🏼[ https://app.powerbi.com/reportEmbed?reportId=e6972b30-a7ba-4741-a685-b601b4887faa&autoAuth=true&ctid=e4883840-0611-4c6f-bb10-5ce265e7a166](https://app.powerbi.com/view?r=eyJrIjoiZTQwNTQ5MWEtMWQwNS00YzY3LTkwNWEtYmIzNzAxNDczMTIzIiwidCI6ImU0ODgzODQwLTA2MTEtNGM2Zi1iYjEwLTVjZTI2NWU3YTE2NiIsImMiOjl9&pageName=ReportSection6447d0c0be3e6160dca6)
 
